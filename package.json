@@ -1,0 +1,19 @@
+{
+    "name": "llmproxy",
+    "version": "0.1.0",
+    "description": "a proxy for llms",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Julian Noah Leser (leser.io)",
+    "license": "ISC",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.21.0",
+      "node-fetch": "^3.3.2"
+    }
+  }
+  
